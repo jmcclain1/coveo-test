@@ -801,23 +801,6 @@
 </coveo:metadata>
 </url>
 <url>
-<loc>https://www.cloudera.com/solutions/gallery/nevis-doolytic.html</loc>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-<coveo:metadata>
-<date>2020-02-20T18:54:22.893Z</date>
-<useCase>Modernize Architecture</useCase>
-<product/>
-<created>2018-06-25T18:49:31.909Z</created>
-<docType/>
-<industry>Public Sector|Insurance|Manufacturing|Telecommunications|Retail, eCommerce & Consumer Products|Financial Services|Technology|Energy & Utilities|Healthcare & Life Sciences</industry>
-<useCaseTagId>_marketing:solutions/modernize</useCaseTagId>
-<searchExclude>false</searchExclude>
-<mimeType>webpage</mimeType>
-<lang>en</lang>
-</coveo:metadata>
-</url>
-<url>
 <loc>https://www.cloudera.com/solutions/gallery/striim-real-time-data-streaming-from-oracle-to-kafka.html</loc>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -852,74 +835,6 @@
 </coveo:metadata>
 </url>
 <url>
-<loc>https://www.cloudera.com/solutions/gallery/securonix-snypr.html</loc>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-<coveo:metadata>
-<date>2020-02-20T18:55:25.419Z</date>
-<useCase>Cybersecurity|Security, Risk, & Compliance</useCase>
-<product/>
-<created>2018-05-01T17:10:46.298Z</created>
-<docType/>
-<industry/>
-<useCaseTagId>_marketing:solutions/protect/cybersecurity|_marketing:solutions/protect</useCaseTagId>
-<searchExclude>false</searchExclude>
-<mimeType>webpage</mimeType>
-<lang>en</lang>
-</coveo:metadata>
-</url>
-<url>
-<loc>https://www.cloudera.com/solutions/gallery/autogrid-energy-internet-platform.html</loc>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-<coveo:metadata>
-<date>2020-02-20T18:56:07.403Z</date>
-<useCase>IoT Connected Products|Industrial IoT</useCase>
-<product/>
-<created>2018-05-01T17:10:46.444Z</created>
-<docType/>
-<industry>Energy & Utilities</industry>
-<useCaseTagId>_marketing:solutions/connect|_marketing:solutions/connect/industrial-iot</useCaseTagId>
-<searchExclude>false</searchExclude>
-<mimeType>webpage</mimeType>
-<lang>en</lang>
-</coveo:metadata>
-</url>
-<url>
-<loc>https://www.cloudera.com/solutions/gallery/eVariant-Healthcare-Platform.html</loc>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-<coveo:metadata>
-<date>2020-02-20T18:56:26.734Z</date>
-<useCase>IoT Connected Products|Healthcare Analytics</useCase>
-<product/>
-<created>2018-05-01T17:10:46.503Z</created>
-<docType/>
-<industry>Healthcare & Life Sciences</industry>
-<useCaseTagId>_marketing:solutions/connect|_marketing:solutions/connect/healthcare-analytics</useCaseTagId>
-<searchExclude>false</searchExclude>
-<mimeType>webpage</mimeType>
-<lang>en</lang>
-</coveo:metadata>
-</url>
-<url>
-<loc>https://www.cloudera.com/solutions/gallery/rcg-enable-lower-business-risk.html</loc>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-<coveo:metadata>
-<date>2020-02-20T18:56:48.808Z</date>
-<useCase>Risk Modeling and Analysis|Security, Risk, & Compliance|Compliance</useCase>
-<product/>
-<created>2018-10-01T17:58:56.715Z</created>
-<docType/>
-<industry>Financial Services</industry>
-<useCaseTagId>_marketing:solutions/protect/risk-modeling|_marketing:solutions/protect|_marketing:solutions/protect/compliance</useCaseTagId>
-<searchExclude>false</searchExclude>
-<mimeType>webpage</mimeType>
-<lang>en</lang>
-</coveo:metadata>
-</url>
-<url>
 <loc>https://www.cloudera.com/solutions/gallery/tcs-active-archive.html</loc>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -936,24 +851,6 @@
 <lang>en</lang>
 </coveo:metadata>
 </url>
-<url>
-<loc>https://www.cloudera.com/solutions/gallery/tcs-sensor-data-analytics-framework.html</loc>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-<coveo:metadata>
-<date>2020-02-20T18:57:32.292Z</date>
-<useCase>Predictive Maintenance|IoT Connected Products</useCase>
-<product/>
-<created>2018-05-01T17:10:47.215Z</created>
-<docType/>
-<industry>Public Sector|Insurance|Manufacturing|Telecommunications|Energy & Utilities</industry>
-<useCaseTagId>_marketing:solutions/connect/predictive-maintenance|_marketing:solutions/connect</useCaseTagId>
-<searchExclude>false</searchExclude>
-<mimeType>webpage</mimeType>
-<lang>en</lang>
-</coveo:metadata>
-</url>
-<url>
 <loc>https://www.cloudera.com/solutions/gallery/informatica-customer-360.html</loc>
 <changefreq>always</changefreq>
 <priority>0.5</priority>
