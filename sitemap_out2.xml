@@ -854,4 +854,28 @@
 <lang>en</lang>
 </coveo:metadata>
 </url>
+  <url>
+<loc>https://www.cloudera.com/content/dam/www/marketing/resources/datasheets/cdh-spec-sheet.pdf.landing.html</loc>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+<coveo:metadata>
+<product/>
+<thumbnail>/content/dam/www/marketing/resources/datasheets/cdh-spec-sheet.pdf/jcr:content/renditions/cq5dam.thumbnail.319.319.png</thumbnail>
+<keywords>CDH,CDH,Documents,Datasheets,Data Sheets,PDF</keywords>
+<docType/>
+<created/>
+<description>CDH is Cloudera’s 100% open source Hadoop distribution, built specifically to meet enterprise demands. With CDH, you can easily leverage the power of Hadoop to do revolutionary things with your data. Comprised of Apache Hadoop and a number of other leading open source projects, CDH combines storage and computation into a single, scalable system and delivers the flexibility and economics required to perform operations on Big Data that are not possible with traditional solutions due to time or cost.</description>
+<language>en</language>
+<useCaseTagId/>
+<industry/>
+<searchExclude>false</searchExclude>
+<title>
+  <![CDATA[CDH Projects & Specifications Datasheet]]>
+</title>
+<url>http://www.cloudera.com/content/dam/www/marketing/resources/datasheets/cdh-spec-sheet.pdf</url>
+<useCase/>
+<modified/>
+<mimetype>pdf</mimetype>
+</coveo:metadata>
+</url>
 </urlset>
