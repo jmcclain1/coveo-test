@@ -840,10 +840,14 @@
 <priority>0.5</priority>
 <coveo:metadata>
 <date>2020-02-20T18:57:10.107Z</date>
-<useCase> <![CDATA[Customer Experience Management;Personalized & Relevancy Marketing]]> </useCase>
+<useCase> 
+  <![CDATA[Customer Experience Management;Personalized & Relevancy Marketing]]> 
+</useCase>
 <created>2018-05-01T17:10:47.132Z</created>
 <docType/>
-<industry/>
+<industry>
+   <![CDATA[t1;t2 & t3]]>
+</industry>
 <useCaseTagId>_marketing:solutions/modernize</useCaseTagId>
 <searchExclude>false</searchExclude>
 <mimeType>webpage</mimeType>
