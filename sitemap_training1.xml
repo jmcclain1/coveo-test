@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:coveo="http://www.coveo.com/schemas/metadata">
+	<url>
+		<loc>https: //cloudera-staging.learnupon.com/api/v1/modules?course_id=2764491</loc>
+		<coveo:metadata>
+			<id>2764491</id>
+			<name> ILT - Cloudera Data Scientist Training - 2764491</name>
+			<reference_code>Cloudera Data Scientist Training</reference_code>
+			<description_text></description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
+			<start_at>2022-11-01T09:00:00Z</start_at>
+			<end_at>2022-11-04T17:00:00Z</end_at>
+			<location>Virtual Classroom, EMEA (UTC)</location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2764504</loc>
+		<coveo:metadata>
+			<id>2764504</id>
+			<name> ILT - Cloudera DE: Developing Applications with Apache Spark - 2764504</name>
+			<reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+			<description_text></description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
+			<start_at>2022-09-27T07:00:00Z</start_at>
+			<end_at>2022-09-30T15:00:00Z</end_at>
+			<location>Virtual Classroom, EMEA (CET)</location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2735778</loc>
+		<coveo:metadata>
+			<id>2735778</id>
+			<name>ILT - 11 MAY-TEST</name>
+			<reference_code>ILT - 11 MAY-TEST</reference_code>
+			<description_text>ILT - 11 MAY-TEST</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>APAC</ilt_delivery_geo>
+			<start_at>2022-05-12T05:30:00Z</start_at>
+			<end_at>2022-05-15T04:30:00Z</end_at>
+			<location></location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code></location_country_code>
+			<location_state_code></location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2738920</loc>
+		<coveo:metadata>
+			<id>2738920</id>
+			<name>ILT - 13 MAY-TEST</name>
+			<reference_code></reference_code>
+			<description_text>ILT - 13 MAY-TEST</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>APAC</ilt_delivery_geo>
+			<start_at>2022-05-13T18:27:00Z</start_at>
+			<end_at>2022-05-17T01:00:00Z</end_at>
+			<location></location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code></location_country_code>
+			<location_state_code></location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2738934</loc>
+		<coveo:metadata>
+			<id>2738934</id>
+			<name>ILT - 13 MAY-TEST2</name>
+			<reference_code>ILT - Cloudera DE: Developing Applications with Apache Spark</reference_code>
+			<description_text>ILT - Cloudera DE: Developing Applications with Apache Spark</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
+			<start_at>2022-05-14T10:00:00Z</start_at>
+			<end_at>2022-05-16T01:00:00Z</end_at>
+			<location></location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code></location_country_code>
+			<location_state_code></location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2737456</loc>
+		<coveo:metadata>
+			<id>2737456</id>
+			<name>ILT - Administrator Training: CDP Private Cloud Base - 2737456</name>
+			<reference_code></reference_code>
+			<description_text></description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Partner Public</ilt_delivery_type>
+			<ilt_delivery_language>Korean</ilt_delivery_language>
+			<ilt_delivery_geo>APAC</ilt_delivery_geo>
+			<ilt_partner_storefront_url>null</ilt_partner_storefront_url>
+			<start_at>2022-05-16T01:30:00Z</start_at>
+			<end_at>2022-05-19T09:30:00Z</end_at>
+			<location>Virtual Classroom, APAC (China)</location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2764498</loc>
+		<coveo:metadata>
+			<id>2764498</id>
+			<name>ILT - Administrator Training: CDP Private Cloud Base - 2764498</name>
+			<reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+			<description_text></description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
+			<start_at>2022-08-30T07:00:00Z</start_at>
+			<end_at>2022-09-02T15:00:00Z</end_at>
+			<location>Virtual Classroom, EMEA (CET)</location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2737289</loc>
+		<coveo:metadata>
+			<id>2737289</id>
+			<name>ILT - Cloudera Flow Management with Apache NiFi</name>
+			<reference_code>ILT - Cloudera Flow Management with Apache NiFi</reference_code>
+			<description_text>ILT - Cloudera Flow Management with Apache NiFi</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>AMER</ilt_delivery_geo>
+			<start_at>2022-05-13T11:30:00Z</start_at>
+			<end_at>2022-05-16T03:30:00Z</end_at>
+			<location></location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code></location_country_code>
+			<location_state_code></location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2735363</loc>
+		<coveo:metadata>
+			<id>2735363</id>
+			<name>ILT Testing 11th May</name>
+			<reference_code>null</reference_code>
+			<description_text>ILT Testing 11th May</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>APAC</ilt_delivery_geo>
+			<start_at>2022-05-13T08:00:00Z</start_at>
+			<end_at>2022-05-15T07:00:00Z</end_at>
+			<location>Virtual Classroom, AMER (West)</location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/api/v1/modules?course_id=2787699</loc>
+		<coveo:metadata>
+			<id>2787699</id>
+			<name>KJTEST Beta Class1</name>
+			<reference_code>KJTEST Beta</reference_code>
+			<description_text>Test Course (Delete when test complete)</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method>In-Person</ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>AMER</ilt_delivery_geo>
+			<start_at>2022-06-22T18:56:00Z</start_at>
+			<end_at>2022-06-22T19:56:00Z</end_at>
+			<location>KJTEST Location EMEA</location>
+			<address_1>38 Charlotte Square, Edinburgh EH2 4HQ</address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>GB</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+</urlset>
