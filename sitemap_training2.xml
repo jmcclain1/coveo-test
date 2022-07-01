@@ -113,7 +113,7 @@
 		</coveo:metadata>
 	</url>
 	<url>
-		<loc>Test/url.html</loc>
+		<loc>https://www.test.html</loc>
 		<coveo:metadata>
 			<course_id>2737456</course_id>
 			<course_name>ILT - Administrator Training: CDP Private Cloud Base - 2737456</course_name>
