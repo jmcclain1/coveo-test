@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:coveo="http://www.coveo.com/schemas/metadata">
+	<url>
+		<loc>https: //cloudera-staging.learnupon.com/store/2764491</loc>
+		<coveo:metadata>
+			<course_id>2764491</course_id>
+			<course_name> ILT - Cloudera Data Scientist Training - 2764491</course_name>
+			<reference_code>Cloudera Data Scientist Training</reference_code>
+			<description_text></description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
+			<start_at>2022-11-01T09:00:00Z</start_at>
+			<end_at>2022-11-04T17:00:00Z</end_at>
+			<course_location>Virtual Classroom, EMEA (UTC)</course_location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/store/2764504</loc>
+		<coveo:metadata>
+			<course_id>2764504</course_id>
+			<course_name> ILT - Cloudera DE: Developing Applications with Apache Spark - 2764504</course_name>
+			<reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+			<description_text></description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
+			<start_at>2022-09-27T07:00:00Z</start_at>
+			<end_at>2022-09-30T15:00:00Z</end_at>
+			<course_location>Virtual Classroom, EMEA (CET)</course_location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/store/2764498</loc>
+		<coveo:metadata>
+			<course_id>2764498</course_id>
+			<course_name>ILT - Administrator Training: CDP Private Cloud Base - 2764498</course_name>
+			<reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+			<description_text></description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method></ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
+			<start_at>2022-08-30T07:00:00Z</start_at>
+			<end_at>2022-09-02T15:00:00Z</end_at>
+			<course_location>Virtual Classroom, EMEA (CET)</course_location>
+			<address_1></address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>xx</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://cloudera-staging.learnupon.com/store/2787699</loc>
+		<coveo:metadata>
+			<course_id>2787699</course_id>
+			<course_name>KJTEST Beta Class1</course_name>
+			<reference_code>KJTEST Beta</reference_code>
+			<description_text>Test Course (Delete when test complete)</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method>In-Person</ilt_delivery_method>
+			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+			<ilt_delivery_language>English</ilt_delivery_language>
+			<ilt_delivery_geo>AMER</ilt_delivery_geo>
+			<start_at>2022-10-13T03:00:00Z</start_at>
+			<end_at>2022-11-10T00:00:00Z</end_at>
+			<course_location>KJTEST Location EMEA</course_location>
+			<address_1>38 Charlotte Square, Edinburgh EH2 4HQ</address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>GB</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+	<url>
+		<loc>https://www.cloudera.com/</loc>
+		<coveo:metadata>
+			<course_id>2787701</course_id>
+			<course_name>KJTEST Beta Class2</course_name>
+			<reference_code>KJTEST Beta</reference_code>
+			<description_text>Test Course (Delete when test complete)</description_text>
+			<course_type>ILT</course_type>
+			<ilt_delivery_method>In-Person</ilt_delivery_method>
+			<ilt_delivery_type>Partner Public</ilt_delivery_type>
+			<ilt_delivery_language>French</ilt_delivery_language>
+			<ilt_delivery_geo>null</ilt_delivery_geo>
+			<ilt_partner_storefront_url>https://www.cloudera.com/</ilt_partner_storefront_url>
+			<start_at>2023-01-01T00:00:00Z</start_at>
+			<end_at>2023-01-05T00:00:00Z</end_at>
+			<course_location>KJTEST Location EMEA</course_location>
+			<address_1>38 Charlotte Square, Edinburgh EH2 4HQ</address_1>
+			<address_2></address_2>
+			<address_3></address_3>
+			<location_country_code>GB</location_country_code>
+			<location_state_code>xx</location_state_code>
+		</coveo:metadata>
+	</url>
+</urlset>
