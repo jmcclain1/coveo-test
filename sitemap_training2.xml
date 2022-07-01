@@ -3,7 +3,7 @@
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:coveo="http://www.coveo.com/schemas/metadata">
 	<url>
-		<loc>https: //cloudera-staging.learnupon.com/store/2764491</loc>
+		<loc>https://cloudera-staging.learnupon.com/store/2764491</loc>
 		<coveo:metadata>
 			<course_id>2764491</course_id>
 			<course_name> ILT - Cloudera Data Scientist Training - 2764491</course_name>
