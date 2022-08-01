@@ -1,116 +1,653 @@
 <?xml version="1.0"?>
-<urlset
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:coveo="http://www.coveo.com/schemas/metadata">
-	<url>
-		<loc>https: //cloudera-staging.learnupon.com/store/2764491</loc>
-		<coveo:metadata>
-			<course_id>2764491</course_id>
-			<course_name> ILT - Cloudera Data Scientist Training - 2764491</course_name>
-			<reference_code>Cloudera Data Scientist Training</reference_code>
-			<description_text></description_text>
-			<course_type>ILT</course_type>
-			<ilt_delivery_method></ilt_delivery_method>
-			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-			<ilt_delivery_language>English</ilt_delivery_language>
-			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
-			<start_at>2022-11-01T09:00:00Z</start_at>
-			<end_at>2022-11-04T17:00:00Z</end_at>
-			<course_location>Virtual Classroom, EMEA (UTC)</course_location>
-			<address_1></address_1>
-			<address_2></address_2>
-			<address_3></address_3>
-			<location_country_code>xx</location_country_code>
-			<location_state_code>xx</location_state_code>
-		</coveo:metadata>
-	</url>
-	<url>
-		<loc>https://cloudera-staging.learnupon.com/store/2764504</loc>
-		<coveo:metadata>
-			<course_id>2764504</course_id>
-			<course_name> ILT - Cloudera DE: Developing Applications with Apache Spark - 2764504</course_name>
-			<reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
-			<description_text></description_text>
-			<course_type>ILT</course_type>
-			<ilt_delivery_method></ilt_delivery_method>
-			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-			<ilt_delivery_language>English</ilt_delivery_language>
-			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
-			<start_at>2022-09-27T07:00:00Z</start_at>
-			<end_at>2022-09-30T15:00:00Z</end_at>
-			<course_location>Virtual Classroom, EMEA (CET)</course_location>
-			<address_1></address_1>
-			<address_2></address_2>
-			<address_3></address_3>
-			<location_country_code>xx</location_country_code>
-			<location_state_code>xx</location_state_code>
-		</coveo:metadata>
-	</url>
-	<url>
-		<loc>https://cloudera-staging.learnupon.com/store/2764498</loc>
-		<coveo:metadata>
-			<course_id>2764498</course_id>
-			<course_name>ILT - Administrator Training: CDP Private Cloud Base - 2764498</course_name>
-			<reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-			<description_text></description_text>
-			<course_type>ILT</course_type>
-			<ilt_delivery_method></ilt_delivery_method>
-			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-			<ilt_delivery_language>English</ilt_delivery_language>
-			<ilt_delivery_geo>EMEA</ilt_delivery_geo>
-			<start_at>2022-08-30T07:00:00Z</start_at>
-			<end_at>2022-09-02T15:00:00Z</end_at>
-			<course_location>Virtual Classroom, EMEA (CET)</course_location>
-			<address_1></address_1>
-			<address_2></address_2>
-			<address_3></address_3>
-			<location_country_code>xx</location_country_code>
-			<location_state_code>xx</location_state_code>
-		</coveo:metadata>
-	</url>
-	<url>
-		<loc>https://cloudera-staging.learnupon.com/store/2787699</loc>
-		<coveo:metadata>
-			<course_id>2787699</course_id>
-			<course_name>KJTEST Beta Class1</course_name>
-			<reference_code>KJTEST Beta</reference_code>
-			<description_text>Test Course (Delete when test complete)</description_text>
-			<course_type>ILT</course_type>
-			<ilt_delivery_method>In-Person</ilt_delivery_method>
-			<ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-			<ilt_delivery_language>English</ilt_delivery_language>
-			<ilt_delivery_geo>AMER</ilt_delivery_geo>
-			<start_at>2022-10-13T03:00:00Z</start_at>
-			<end_at>2022-11-10T00:00:00Z</end_at>
-			<course_location>KJTEST Location EMEA</course_location>
-			<address_1>38 Charlotte Square, Edinburgh EH2 4HQ</address_1>
-			<address_2></address_2>
-			<address_3></address_3>
-			<location_country_code>GB</location_country_code>
-			<location_state_code>xx</location_state_code>
-		</coveo:metadata>
-	</url>
-	<url>
-		<loc>https://www.cloudera.com/</loc>
-		<coveo:metadata>
-			<course_id>2787701</course_id>
-			<course_name>KJTEST Beta Class2</course_name>
-			<reference_code>KJTEST Beta</reference_code>
-			<description_text>Test Course (Delete when test complete)</description_text>
-			<course_type>ILT</course_type>
-			<ilt_delivery_method>In-Person</ilt_delivery_method>
-			<ilt_delivery_type>Partner Public</ilt_delivery_type>
-			<ilt_delivery_language>French</ilt_delivery_language>
-			<ilt_delivery_geo>null</ilt_delivery_geo>
-			<ilt_partner_storefront_url>https://www.cloudera.com/</ilt_partner_storefront_url>
-			<start_at>2023-01-01T00:00:00Z</start_at>
-			<end_at>2023-01-05T00:00:00Z</end_at>
-			<course_location>KJTEST Location EMEA</course_location>
-			<address_1>38 Charlotte Square, Edinburgh EH2 4HQ</address_1>
-			<address_2></address_2>
-			<address_3></address_3>
-			<location_country_code>GB</location_country_code>
-			<location_state_code>xx</location_state_code>
-		</coveo:metadata>
-	</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="http://www.coveo.com/schemas/metadata">
+    <url>
+        <loc>https://education.cloudera.com/store/2824845</loc>
+        <coveo:metadata>
+            <course_id>2824845</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2824845</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Aug 16</start_at>
+            <end_at>Aug 19</end_at>
+            <start_at_dt>2022-08-16T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-08-19T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826615</loc>
+        <coveo:metadata>
+            <course_id>2826615</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2826615</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 06</start_at>
+            <end_at>Sep 09</end_at>
+            <start_at_dt>2022-09-06T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-09T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826719</loc>
+        <coveo:metadata>
+            <course_id>2826719</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2826719</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 27</start_at>
+            <end_at>Oct 01</end_at>
+            <start_at_dt>2022-09-27T15:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-30T23:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (Mountain)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826737</loc>
+        <coveo:metadata>
+            <course_id>2826737</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2826737</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Dec 13</start_at>
+            <end_at>Dec 16</end_at>
+            <start_at_dt>2022-12-13T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-16T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2830541</loc>
+        <coveo:metadata>
+            <course_id>2830541</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2830541</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 06</start_at>
+            <end_at>Sep 09</end_at>
+            <start_at_dt>2022-09-06T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-09T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2835911</loc>
+        <coveo:metadata>
+            <course_id>2835911</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2835911</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Chinese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Oct 25</start_at>
+            <end_at>Oct 28</end_at>
+            <start_at_dt>2022-10-25T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-28T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (China)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2835917</loc>
+        <coveo:metadata>
+            <course_id>2835917</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2835917</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Chinese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 13</start_at>
+            <end_at>Sep 16</end_at>
+            <start_at_dt>2022-09-13T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-16T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (China)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2837708</loc>
+        <coveo:metadata>
+            <course_id>2837708</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2837708</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Oct 25</start_at>
+            <end_at>Oct 29</end_at>
+            <start_at_dt>2022-10-25T14:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-28T22:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (Central)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2830554</loc>
+        <coveo:metadata>
+            <course_id>2830554</course_id>
+            <course_name>ILT - Apache Spark Application Performance Tuning Workshop - 2830554</course_name>
+            <reference_code>Apache Spark Application Performance Tuning Workshop</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 21</start_at>
+            <end_at>Sep 23</end_at>
+            <start_at_dt>2022-09-21T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-23T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826634</loc>
+        <coveo:metadata>
+            <course_id>2826634</course_id>
+            <course_name>ILT - CDP Data Governance with SDX - 2826634</course_name>
+            <reference_code>CDP Data Governance with SDX</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 27</start_at>
+            <end_at>Sep 28</end_at>
+            <start_at_dt>2022-09-27T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-28T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826731</loc>
+        <coveo:metadata>
+            <course_id>2826731</course_id>
+            <course_name>ILT - CDP Data Governance with SDX - 2826731</course_name>
+            <reference_code>CDP Data Governance with SDX</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Nov 01</start_at>
+            <end_at>Nov 02</end_at>
+            <start_at_dt>2022-11-01T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-02T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826749</loc>
+        <coveo:metadata>
+            <course_id>2826749</course_id>
+            <course_name>ILT - CDP Data Governance with SDX - 2826749</course_name>
+            <reference_code>CDP Data Governance with SDX</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Dec 20</start_at>
+            <end_at>Dec 21</end_at>
+            <start_at_dt>2022-12-20T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-21T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2824833</loc>
+        <coveo:metadata>
+            <course_id>2824833</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2824833</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Aug 08</start_at>
+            <end_at>Aug 11</end_at>
+            <start_at_dt>2022-08-08T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-08-11T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826706</loc>
+        <coveo:metadata>
+            <course_id>2826706</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2826706</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Oct 25</start_at>
+            <end_at>Oct 28</end_at>
+            <start_at_dt>2022-10-25T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-28T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826758</loc>
+        <coveo:metadata>
+            <course_id>2826758</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2826758</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Nov 29</start_at>
+            <end_at>Dec 02</end_at>
+            <start_at_dt>2022-11-29T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-02T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2828647</loc>
+        <coveo:metadata>
+            <course_id>2828647</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2828647</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Aug 16</start_at>
+            <end_at>Aug 19</end_at>
+            <start_at_dt>2022-08-16T01:30:00Z</start_at_dt>
+            <end_at_dt>2022-08-19T09:30:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2830558</loc>
+        <coveo:metadata>
+            <course_id>2830558</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2830558</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 27</start_at>
+            <end_at>Sep 30</end_at>
+            <start_at_dt>2022-09-27T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-30T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826627</loc>
+        <coveo:metadata>
+            <course_id>2826627</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2826627</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 14</start_at>
+            <end_at>Sep 16</end_at>
+            <start_at_dt>2022-09-14T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-16T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826667</loc>
+        <coveo:metadata>
+            <course_id>2826667</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2826667</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Oct 04</start_at>
+            <end_at>Oct 06</end_at>
+            <start_at_dt>2022-10-04T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-06T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2826734</loc>
+        <coveo:metadata>
+            <course_id>2826734</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2826734</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Nov 09</start_at>
+            <end_at>Nov 11</end_at>
+            <start_at_dt>2022-11-09T00:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-11T08:00:00Z</end_at_dt>
+            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2833696</loc>
+        <coveo:metadata>
+            <course_id>2833696</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2833696</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Oct 11</start_at>
+            <end_at>Oct 13</end_at>
+            <start_at_dt>2022-10-11T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-13T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2837713</loc>
+        <coveo:metadata>
+            <course_id>2837713</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2837713</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Dec 14</start_at>
+            <end_at>Dec 17</end_at>
+            <start_at_dt>2022-12-14T15:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-16T23:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (Central)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2824851</loc>
+        <coveo:metadata>
+            <course_id>2824851</course_id>
+            <course_name>ILT - Cloudera Training for Apache Kafka - 2824851</course_name>
+            <reference_code>Cloudera Training for Apache Kafka</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Aug 16</start_at>
+            <end_at>Aug 19</end_at>
+            <start_at_dt>2022-08-16T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-08-19T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2830533</loc>
+        <coveo:metadata>
+            <course_id>2830533</course_id>
+            <course_name>ILT - Cloudera Training for Apache Kafka - 2830533</course_name>
+            <reference_code>Cloudera Training for Apache Kafka</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Sep 13</start_at>
+            <end_at>Sep 17</end_at>
+            <start_at_dt>2022-09-13T14:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-16T22:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (Central)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2832438</loc>
+        <coveo:metadata>
+            <course_id>2832438</course_id>
+            <course_name>ILT - Cloudera Training for Apache Kafka - 2832438</course_name>
+            <reference_code>Cloudera Training for Apache Kafka</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Dec 06</start_at>
+            <end_at>Dec 09</end_at>
+            <start_at_dt>2022-12-06T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-09T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2835939</loc>
+        <coveo:metadata>
+            <course_id>2835939</course_id>
+            <course_name>ILT - Using Apache Flink and SQL Stream Builder on CDP - 2835939</course_name>
+            <reference_code>Using Apache Flink and SQL Stream Builder on CDP</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Chinese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <start_at>Nov 10</start_at>
+            <end_at>Nov 11</end_at>
+            <start_at_dt>2022-11-10T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-11T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (China)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
 </urlset>
