@@ -1,23 +1,24 @@
 <?xml version="1.0"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="http://www.coveo.com/schemas/metadata">
     <url>
-        <loc>https://education.cloudera.com/store/2824845</loc>
+        <loc>https://education.cloudera.com/store/2837809</loc>
         <coveo:metadata>
-            <course_id>2824845</course_id>
-            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2824845</course_name>
-            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <course_id>2837809</course_id>
+            <course_name>Cloudera Data Scientist Training - 2837809</course_name>
+            <reference_code>Cloudera Data Scientist Training</reference_code>
             <description_text></description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
-            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Aug 16</start_at>
-            <end_at>Aug 19</end_at>
-            <start_at_dt>2022-08-16T01:00:00Z</start_at_dt>
-            <end_at_dt>2022-08-19T09:00:00Z</end_at_dt>
-            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <ilt_roles>Data Scientist</ilt_roles>
+            <start_at>Nov 15</start_at>
+            <end_at>Nov 19</end_at>
+            <start_at_dt>2022-11-15T08:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-18T16:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
@@ -31,13 +32,14 @@
             <course_id>2826615</course_id>
             <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2826615</course_name>
             <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-            <description_text></description_text>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Japanese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
             <start_at>Sep 06</start_at>
             <end_at>Sep 09</end_at>
             <start_at_dt>2022-09-06T00:00:00Z</start_at_dt>
@@ -51,43 +53,19 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2826719</loc>
-        <coveo:metadata>
-            <course_id>2826719</course_id>
-            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2826719</course_name>
-            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-            <description_text></description_text>
-            <course_type>ILT</course_type>
-            <ilt_delivery_method>Virtual</ilt_delivery_method>
-            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-            <ilt_delivery_language>English</ilt_delivery_language>
-            <ilt_delivery_geo>AMER</ilt_delivery_geo>
-            <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Sep 27</start_at>
-            <end_at>Oct 01</end_at>
-            <start_at_dt>2022-09-27T15:00:00Z</start_at_dt>
-            <end_at_dt>2022-09-30T23:00:00Z</end_at_dt>
-            <course_location>Virtual Classroom, AMER (Mountain)</course_location>
-            <address_1></address_1>
-            <address_2></address_2>
-            <address_3></address_3>
-            <location_country_code>xx</location_country_code>
-            <location_state_code>xx</location_state_code>
-        </coveo:metadata>
-    </url>
-    <url>
         <loc>https://education.cloudera.com/store/2826737</loc>
         <coveo:metadata>
             <course_id>2826737</course_id>
             <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2826737</course_name>
             <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-            <description_text></description_text>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Japanese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
             <start_at>Dec 13</start_at>
             <end_at>Dec 16</end_at>
             <start_at_dt>2022-12-13T00:00:00Z</start_at_dt>
@@ -101,72 +79,23 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2830541</loc>
-        <coveo:metadata>
-            <course_id>2830541</course_id>
-            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2830541</course_name>
-            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-            <description_text></description_text>
-            <course_type>ILT</course_type>
-            <ilt_delivery_method>Virtual</ilt_delivery_method>
-            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-            <ilt_delivery_language>English</ilt_delivery_language>
-            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
-            <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Sep 06</start_at>
-            <end_at>Sep 09</end_at>
-            <start_at_dt>2022-09-06T07:00:00Z</start_at_dt>
-            <end_at_dt>2022-09-09T15:00:00Z</end_at_dt>
-            <course_location>Virtual Classroom, EMEA (CET)</course_location>
-            <address_1></address_1>
-            <address_2></address_2>
-            <address_3></address_3>
-            <location_country_code>xx</location_country_code>
-            <location_state_code>xx</location_state_code>
-        </coveo:metadata>
-    </url>
-    <url>
         <loc>https://education.cloudera.com/store/2835911</loc>
         <coveo:metadata>
             <course_id>2835911</course_id>
             <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2835911</course_name>
             <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-            <description_text></description_text>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Chinese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
             <start_at>Oct 25</start_at>
             <end_at>Oct 28</end_at>
             <start_at_dt>2022-10-25T01:00:00Z</start_at_dt>
             <end_at_dt>2022-10-28T09:00:00Z</end_at_dt>
-            <course_location>Virtual Classroom, APAC (China)</course_location>
-            <address_1></address_1>
-            <address_2></address_2>
-            <address_3></address_3>
-            <location_country_code>xx</location_country_code>
-            <location_state_code>xx</location_state_code>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://education.cloudera.com/store/2835917</loc>
-        <coveo:metadata>
-            <course_id>2835917</course_id>
-            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2835917</course_name>
-            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-            <description_text></description_text>
-            <course_type>ILT</course_type>
-            <ilt_delivery_method>Virtual</ilt_delivery_method>
-            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-            <ilt_delivery_language>Chinese</ilt_delivery_language>
-            <ilt_delivery_geo>APAC</ilt_delivery_geo>
-            <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Sep 13</start_at>
-            <end_at>Sep 16</end_at>
-            <start_at_dt>2022-09-13T01:00:00Z</start_at_dt>
-            <end_at_dt>2022-09-16T09:00:00Z</end_at_dt>
             <course_location>Virtual Classroom, APAC (China)</course_location>
             <address_1></address_1>
             <address_2></address_2>
@@ -181,18 +110,207 @@
             <course_id>2837708</course_id>
             <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2837708</course_name>
             <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
-            <description_text></description_text>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>AMER</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Oct 25</start_at>
-            <end_at>Oct 29</end_at>
-            <start_at_dt>2022-10-25T14:00:00Z</start_at_dt>
-            <end_at_dt>2022-10-28T22:00:00Z</end_at_dt>
+            <ilt_roles>Administrator</ilt_roles>
+            <start_at>Oct 18</start_at>
+            <end_at>Oct 22</end_at>
+            <start_at_dt>2022-10-18T14:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-21T22:00:00Z</end_at_dt>
             <course_location>Virtual Classroom, AMER (Central)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2846168</loc>
+        <coveo:metadata>
+            <course_id>2846168</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2846168</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <start_at>Oct 11</start_at>
+            <end_at>Oct 14</end_at>
+            <start_at_dt>2022-10-10T22:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-14T06:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Australia EST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.exitcertified.com/it-training/cloudera/Administrator/administrator-training-cdp-private-cloud-base-60661-detail.html?event=180984&amp;partner_referral=CLOUDERA</loc>
+        <coveo:metadata>
+            <course_id>2848332</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2848332</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>ExitCertified</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <ilt_partner_storefront_url>https://www.exitcertified.com/it-training/cloudera/Administrator/administrator-training-cdp-private-cloud-base-60661-detail.html?event=180984&amp;partner_referral=CLOUDERA</ilt_partner_storefront_url>
+            <start_at>Sep 20</start_at>
+            <end_at>Sep 24</end_at>
+            <start_at_dt>2022-09-20T13:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-23T21:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (EAST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.pue.es/courses/cloudera/administrators/administrator-training-cdp-private-cloud-base-virtual-english</loc>
+        <coveo:metadata>
+            <course_id>2848368</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2848368</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>PUE</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <ilt_partner_storefront_url>https://www.pue.es/courses/cloudera/administrators/administrator-training-cdp-private-cloud-base-virtual-english</ilt_partner_storefront_url>
+            <start_at>Sep 27</start_at>
+            <end_at>Sep 30</end_at>
+            <start_at_dt>2022-09-27T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-30T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.softsource.com.sg/events/product_info.php?products_id=319</loc>
+        <coveo:metadata>
+            <course_id>2867674</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2867674</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <ilt_partner_storefront_url>https://www.softsource.com.sg/events/product_info.php?products_id=319</ilt_partner_storefront_url>
+            <start_at>Sep 20</start_at>
+            <end_at>Sep 23</end_at>
+            <start_at_dt>2022-09-20T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-23T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.agilitics.edu.sg/administrator-cdp-private-cloud-base-training/</loc>
+        <coveo:metadata>
+            <course_id>2867712</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2867712</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Agilitics</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <ilt_partner_storefront_url>https://www.agilitics.edu.sg/administrator-cdp-private-cloud-base-training/</ilt_partner_storefront_url>
+            <start_at>Oct 25</start_at>
+            <end_at>Oct 28</end_at>
+            <start_at_dt>2022-10-25T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-28T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.softsource.com.sg/events/product_info.php?products_id=327</loc>
+        <coveo:metadata>
+            <course_id>2867717</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2867717</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <ilt_partner_storefront_url>https://www.softsource.com.sg/events/product_info.php?products_id=327</ilt_partner_storefront_url>
+            <start_at>Nov 08</start_at>
+            <end_at>Nov 11</end_at>
+            <start_at_dt>2022-11-08T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-11T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>null</loc>
+        <coveo:metadata>
+            <course_id>2870098</course_id>
+            <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2870098</course_name>
+            <reference_code>Administrator Training: CDP Private Cloud Base</reference_code>
+            <description_text>Cloudera's four-day administrator training course for CDP Private Cloud Base provides participants with a comprehensive understanding of all the steps necessary to operate and maintain on-premises clusters using Cloudera Manager. From installation and configuration through load balancing and...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <ilt_partner_storefront_url>null</ilt_partner_storefront_url>
+            <start_at>Dec 06</start_at>
+            <end_at>Dec 09</end_at>
+            <start_at_dt>2022-12-06T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-09T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
@@ -206,13 +324,14 @@
             <course_id>2830554</course_id>
             <course_name>ILT - Apache Spark Application Performance Tuning Workshop - 2830554</course_name>
             <reference_code>Apache Spark Application Performance Tuning Workshop</reference_code>
-            <description_text></description_text>
+            <description_text>This three-day hands-on training course delivers the key concepts and expertise developers need to improve the performance of their Apache Spark applications. During the course, participants will learn how to identify common sources of poor performance in Spark applications, techniques for...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>EMEA</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Developer;Data Scientist</ilt_roles>
             <start_at>Sep 21</start_at>
             <end_at>Sep 23</end_at>
             <start_at_dt>2022-09-21T07:00:00Z</start_at_dt>
@@ -226,23 +345,76 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2826634</loc>
+        <loc>https://education.cloudera.com/store/2854450</loc>
         <coveo:metadata>
-            <course_id>2826634</course_id>
-            <course_name>ILT - CDP Data Governance with SDX - 2826634</course_name>
-            <reference_code>CDP Data Governance with SDX</reference_code>
-            <description_text></description_text>
+            <course_id>2854450</course_id>
+            <course_name>ILT - CDP Admin: Building Secure Clusters - 2854450</course_name>
+            <reference_code>CDP Admin: Building Secure Clusters</reference_code>
+            <description_text>This four-day hands-on course for Cloudera Data Platform (CDP) administrators teaches the skills and practices needed to configure solutions that meet the most demanding technical security audit standards. The course is built around a recommended project plan for CDP administrators. The first...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <start_at>Sep 27</start_at>
+            <end_at>Oct 01</end_at>
+            <start_at_dt>2022-09-27T14:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-30T22:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (Central)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2854575</loc>
+        <coveo:metadata>
+            <course_id>2854575</course_id>
+            <course_name>ILT - CDP Admin: Building Secure Clusters - 2854575</course_name>
+            <reference_code>CDP Admin: Building Secure Clusters</reference_code>
+            <description_text>This four-day hands-on course for Cloudera Data Platform (CDP) administrators teaches the skills and practices needed to configure solutions that meet the most demanding technical security audit standards. The course is built around a recommended project plan for CDP administrators. The first...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Sep 27</start_at>
-            <end_at>Sep 28</end_at>
-            <start_at_dt>2022-09-27T00:00:00Z</start_at_dt>
-            <end_at_dt>2022-09-28T08:00:00Z</end_at_dt>
-            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <ilt_roles>Administrator</ilt_roles>
+            <start_at>Oct 18</start_at>
+            <end_at>Oct 21</end_at>
+            <start_at_dt>2022-10-18T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-21T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2857671</loc>
+        <coveo:metadata>
+            <course_id>2857671</course_id>
+            <course_name>ILT - CDP Admin: Building Secure Clusters - 2857671</course_name>
+            <reference_code>CDP Admin: Building Secure Clusters</reference_code>
+            <description_text>This four-day hands-on course for Cloudera Data Platform (CDP) administrators teaches the skills and practices needed to configure solutions that meet the most demanding technical security audit standards. The course is built around a recommended project plan for CDP administrators. The first...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator</ilt_roles>
+            <start_at>Aug 23</start_at>
+            <end_at>Aug 27</end_at>
+            <start_at_dt>2022-08-23T14:00:00Z</start_at_dt>
+            <end_at_dt>2022-08-26T22:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (Central)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
@@ -256,13 +428,14 @@
             <course_id>2826731</course_id>
             <course_name>ILT - CDP Data Governance with SDX - 2826731</course_name>
             <reference_code>CDP Data Governance with SDX</reference_code>
-            <description_text></description_text>
+            <description_text>This course helps customers use Cloudera Data Platform to address data governance tasks, motivated by the need for compliance with regulations such as the European Union's General Data Protection Regulation (GDPR) and the United State's Health Insurance Portability and Accountability Act...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Japanese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles></ilt_roles>
             <start_at>Nov 01</start_at>
             <end_at>Nov 02</end_at>
             <start_at_dt>2022-11-01T00:00:00Z</start_at_dt>
@@ -281,13 +454,14 @@
             <course_id>2826749</course_id>
             <course_name>ILT - CDP Data Governance with SDX - 2826749</course_name>
             <reference_code>CDP Data Governance with SDX</reference_code>
-            <description_text></description_text>
+            <description_text>This course helps customers use Cloudera Data Platform to address data governance tasks, motivated by the need for compliance with regulations such as the European Union's General Data Protection Regulation (GDPR) and the United State's Health Insurance Portability and Accountability Act...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Japanese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator;Data Analyst</ilt_roles>
             <start_at>Dec 20</start_at>
             <end_at>Dec 21</end_at>
             <start_at_dt>2022-12-20T00:00:00Z</start_at_dt>
@@ -301,48 +475,24 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2824833</loc>
+        <loc>https://education.cloudera.com/store/2862079</loc>
         <coveo:metadata>
-            <course_id>2824833</course_id>
-            <course_name>ILT - Cloudera Data Analyst Training - 2824833</course_name>
-            <reference_code>Cloudera Data Analyst Training</reference_code>
-            <description_text></description_text>
+            <course_id>2862079</course_id>
+            <course_name>ILT - CDP Data Governance with SDX - 2862079</course_name>
+            <reference_code>CDP Data Governance with SDX</reference_code>
+            <description_text>This course helps customers use Cloudera Data Platform to address data governance tasks, motivated by the need for compliance with regulations such as the European Union's General Data Protection Regulation (GDPR) and the United State's Health Insurance Portability and Accountability Act...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>EMEA</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Aug 08</start_at>
-            <end_at>Aug 11</end_at>
-            <start_at_dt>2022-08-08T07:00:00Z</start_at_dt>
-            <end_at_dt>2022-08-11T15:00:00Z</end_at_dt>
+            <ilt_roles>Administrator;Data Analyst</ilt_roles>
+            <start_at>Sep 29</start_at>
+            <end_at>Sep 30</end_at>
+            <start_at_dt>2022-09-29T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-30T15:00:00Z</end_at_dt>
             <course_location>Virtual Classroom, EMEA (CET)</course_location>
-            <address_1></address_1>
-            <address_2></address_2>
-            <address_3></address_3>
-            <location_country_code>xx</location_country_code>
-            <location_state_code>xx</location_state_code>
-        </coveo:metadata>
-    </url>
-    <url>
-        <loc>https://education.cloudera.com/store/2826706</loc>
-        <coveo:metadata>
-            <course_id>2826706</course_id>
-            <course_name>ILT - Cloudera Data Analyst Training - 2826706</course_name>
-            <reference_code>Cloudera Data Analyst Training</reference_code>
-            <description_text></description_text>
-            <course_type>ILT</course_type>
-            <ilt_delivery_method>Virtual</ilt_delivery_method>
-            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-            <ilt_delivery_language>Japanese</ilt_delivery_language>
-            <ilt_delivery_geo>APAC</ilt_delivery_geo>
-            <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Oct 25</start_at>
-            <end_at>Oct 28</end_at>
-            <start_at_dt>2022-10-25T00:00:00Z</start_at_dt>
-            <end_at_dt>2022-10-28T08:00:00Z</end_at_dt>
-            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
@@ -356,13 +506,14 @@
             <course_id>2826758</course_id>
             <course_name>ILT - Cloudera Data Analyst Training - 2826758</course_name>
             <reference_code>Cloudera Data Analyst Training</reference_code>
-            <description_text></description_text>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Japanese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
             <start_at>Nov 29</start_at>
             <end_at>Dec 02</end_at>
             <start_at_dt>2022-11-29T00:00:00Z</start_at_dt>
@@ -376,23 +527,237 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2828647</loc>
+        <loc>https://education.cloudera.com/store/2830548</loc>
         <coveo:metadata>
-            <course_id>2828647</course_id>
-            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2828647</course_name>
-            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <course_id>2830548</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2830548</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
             <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <start_at>Sep 13</start_at>
+            <end_at>Sep 16</end_at>
+            <start_at_dt>2022-09-13T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-16T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2840982</loc>
+        <coveo:metadata>
+            <course_id>2840982</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2840982</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Aug 16</start_at>
-            <end_at>Aug 19</end_at>
-            <start_at_dt>2022-08-16T01:30:00Z</start_at_dt>
-            <end_at_dt>2022-08-19T09:30:00Z</end_at_dt>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <start_at>Sep 13</start_at>
+            <end_at>Sep 16</end_at>
+            <start_at_dt>2022-09-12T23:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-16T07:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Australia EST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2854138</loc>
+        <coveo:metadata>
+            <course_id>2854138</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2854138</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <start_at>Sep 20</start_at>
+            <end_at>Sep 24</end_at>
+            <start_at_dt>2022-09-20T15:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-23T23:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (Mountain)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.agilitics.edu.sg/ibf-accredited-data-analyst-training-singapore/</loc>
+        <coveo:metadata>
+            <course_id>2867660</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2867660</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Agilitics</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <ilt_partner_storefront_url>https://www.agilitics.edu.sg/ibf-accredited-data-analyst-training-singapore/</ilt_partner_storefront_url>
+            <start_at>Sep 13</start_at>
+            <end_at>Sep 16</end_at>
+            <start_at_dt>2022-09-13T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-16T09:00:00Z</end_at_dt>
             <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.softsource.com.sg/events/product_info.php?products_id=306</loc>
+        <coveo:metadata>
+            <course_id>2867696</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2867696</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <ilt_partner_storefront_url>https://www.softsource.com.sg/events/product_info.php?products_id=306</ilt_partner_storefront_url>
+            <start_at>Oct 04</start_at>
+            <end_at>Oct 07</end_at>
+            <start_at_dt>2022-10-04T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-07T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.agilitics.edu.sg/ibf-accredited-data-analyst-training-singapore/</loc>
+        <coveo:metadata>
+            <course_id>2867700</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2867700</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Agilitics</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <ilt_partner_storefront_url>https://www.agilitics.edu.sg/ibf-accredited-data-analyst-training-singapore/</ilt_partner_storefront_url>
+            <start_at>Oct 04</start_at>
+            <end_at>Oct 07</end_at>
+            <start_at_dt>2022-10-04T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-07T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.agilitics.edu.sg/ibf-accredited-data-analyst-training-singapore/</loc>
+        <coveo:metadata>
+            <course_id>2867724</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2867724</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Agilitics</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <ilt_partner_storefront_url>https://www.agilitics.edu.sg/ibf-accredited-data-analyst-training-singapore/</ilt_partner_storefront_url>
+            <start_at>Nov 08</start_at>
+            <end_at>Nov 11</end_at>
+            <start_at_dt>2022-11-08T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-11T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>null</loc>
+        <coveo:metadata>
+            <course_id>2870082</course_id>
+            <course_name>ILT - Cloudera Data Analyst Training - 2870082</course_name>
+            <reference_code>Cloudera Data Analyst Training</reference_code>
+            <description_text>This four-day Data Analyst Training course will teach you to apply traditional data analytics and business intelligence skills to big data. This course presents the tools data professionals need to access, manipulate, transform, and analyze complex data sets using SQL and familiar scripting...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Agilitics</ilt_provider>
+            <ilt_roles>Data Analyst</ilt_roles>
+            <ilt_partner_storefront_url>null</ilt_partner_storefront_url>
+            <start_at>Dec 05</start_at>
+            <end_at>Dec 08</end_at>
+            <start_at_dt>2022-12-05T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-08T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2830520</loc>
+        <coveo:metadata>
+            <course_id>2830520</course_id>
+            <course_name>ILT - Cloudera Data Scientist Training  - 2830520</course_name>
+            <reference_code>Cloudera Data Scientist Training</reference_code>
+            <description_text>This four-day workshop covers enterprise data science and machine learning using Apache Spark in Cloudera Data Science Workbench (CDSW). Participants use Spark SQL to load, explore, cleanse, join, and analyze data and Spark MLlib to specify, train, evaluate, tune, and deploy machine learning...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Scientist</ilt_roles>
+            <start_at>Aug 29</start_at>
+            <end_at>Sep 01</end_at>
+            <start_at_dt>2022-08-29T07:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-01T15:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (CET)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
@@ -406,13 +771,14 @@
             <course_id>2830558</course_id>
             <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2830558</course_name>
             <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
-            <description_text></description_text>
+            <description_text>This four-day hands-on training course teaches the key concepts and knowledge developers need to use Apache Spark in developing high-performance, parallel applications on the Cloudera Data Platform (CDP).Hands-on exercises allow students to practice writing Spark applications that integrate with...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>EMEA</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Developer;Administrator;Data Scientist</ilt_roles>
             <start_at>Sep 27</start_at>
             <end_at>Sep 30</end_at>
             <start_at_dt>2022-09-27T07:00:00Z</start_at_dt>
@@ -426,23 +792,157 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2826627</loc>
+        <loc>https://education.cloudera.com/store/2835944</loc>
         <coveo:metadata>
-            <course_id>2826627</course_id>
-            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2826627</course_name>
-            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
-            <description_text></description_text>
+            <course_id>2835944</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2835944</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text>This four-day hands-on training course teaches the key concepts and knowledge developers need to use Apache Spark in developing high-performance, parallel applications on the Cloudera Data Platform (CDP).Hands-on exercises allow students to practice writing Spark applications that integrate with...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-            <ilt_delivery_language>Japanese</ilt_delivery_language>
+            <ilt_delivery_language>Chinese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Sep 14</start_at>
-            <end_at>Sep 16</end_at>
-            <start_at_dt>2022-09-14T00:00:00Z</start_at_dt>
-            <end_at_dt>2022-09-16T08:00:00Z</end_at_dt>
-            <course_location> Virtual Classroom, APAC (Japan JST)</course_location>
+            <ilt_roles>Data Developer;Administrator;Data Scientist</ilt_roles>
+            <start_at>Nov 22</start_at>
+            <end_at>Nov 25</end_at>
+            <start_at_dt>2022-11-22T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-25T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (China)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2846126</loc>
+        <coveo:metadata>
+            <course_id>2846126</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2846126</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text>This four-day hands-on training course teaches the key concepts and knowledge developers need to use Apache Spark in developing high-performance, parallel applications on the Cloudera Data Platform (CDP).Hands-on exercises allow students to practice writing Spark applications that integrate with...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Developer;Administrator;Data Scientist</ilt_roles>
+            <start_at>Nov 02</start_at>
+            <end_at>Nov 04</end_at>
+            <start_at_dt>2022-11-02T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-04T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2846176</loc>
+        <coveo:metadata>
+            <course_id>2846176</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2846176</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text>This four-day hands-on training course teaches the key concepts and knowledge developers need to use Apache Spark in developing high-performance, parallel applications on the Cloudera Data Platform (CDP).Hands-on exercises allow students to practice writing Spark applications that integrate with...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Data Developer;Administrator;Data Scientist</ilt_roles>
+            <start_at>Oct 18</start_at>
+            <end_at>Oct 21</end_at>
+            <start_at_dt>2022-10-17T22:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-21T06:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Australia EST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.exitcertified.com/it-training/cloudera/developer/data-engineering-developing-applications-apache-spark-62693-detail.html?event=180978&amp;partner_referral=CLOUDERA</loc>
+        <coveo:metadata>
+            <course_id>2848320</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2848320</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text></description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>AMER</ilt_delivery_geo>
+            <ilt_provider>ExitCertified</ilt_provider>
+            <ilt_roles>Administrator;Data Developer;Data Scientist</ilt_roles>
+            <ilt_partner_storefront_url>https://www.exitcertified.com/it-training/cloudera/developer/data-engineering-developing-applications-apache-spark-62693-detail.html?event=180978&amp;partner_referral=CLOUDERA</ilt_partner_storefront_url>
+            <start_at>Sep 13</start_at>
+            <end_at>Sep 17</end_at>
+            <start_at_dt>2022-09-13T16:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-17T00:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, AMER (EAST)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.softsource.com.sg/events/product_info.php?products_id=326</loc>
+        <coveo:metadata>
+            <course_id>2867707</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2867707</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text>This four-day hands-on training course teaches the key concepts and knowledge developers need to use Apache Spark in developing high-performance, parallel applications on the Cloudera Data Platform (CDP).Hands-on exercises allow students to practice writing Spark applications that integrate with...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Data Developer</ilt_roles>
+            <ilt_partner_storefront_url>https://www.softsource.com.sg/events/product_info.php?products_id=326</ilt_partner_storefront_url>
+            <start_at>Oct 18</start_at>
+            <end_at>Oct 21</end_at>
+            <start_at_dt>2022-10-18T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-10-21T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>null</loc>
+        <coveo:metadata>
+            <course_id>2870072</course_id>
+            <course_name>ILT - Cloudera DE: Developing Applications with Apache Spark - 2870072</course_name>
+            <reference_code>Cloudera DE: Developing Applications with Apache Spark</reference_code>
+            <description_text>This four-day hands-on training course teaches the key concepts and knowledge developers need to use Apache Spark in developing high-performance, parallel applications on the Cloudera Data Platform (CDP).Hands-on exercises allow students to practice writing Spark applications that integrate with...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Data Developer</ilt_roles>
+            <ilt_partner_storefront_url>null</ilt_partner_storefront_url>
+            <start_at>Nov 22</start_at>
+            <end_at>Nov 25</end_at>
+            <start_at_dt>2022-11-22T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-25T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
@@ -456,13 +956,14 @@
             <course_id>2826667</course_id>
             <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2826667</course_name>
             <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
-            <description_text></description_text>
+            <description_text>This three-day course provides the foundational training you'll need to succeed with Apache NiFi. Nifi supports the ability to manage ingest and data flow across complex ecosystems. In addition to learning NiFi's key features and concepts, participants will gain hands-on experience creating,...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Japanese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles></ilt_roles>
             <start_at>Oct 04</start_at>
             <end_at>Oct 06</end_at>
             <start_at_dt>2022-10-04T00:00:00Z</start_at_dt>
@@ -481,13 +982,14 @@
             <course_id>2826734</course_id>
             <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2826734</course_name>
             <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
-            <description_text></description_text>
+            <description_text>This three-day course provides the foundational training you'll need to succeed with Apache NiFi. Nifi supports the ability to manage ingest and data flow across complex ecosystems. In addition to learning NiFi's key features and concepts, participants will gain hands-on experience creating,...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>Japanese</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles></ilt_roles>
             <start_at>Nov 09</start_at>
             <end_at>Nov 11</end_at>
             <start_at_dt>2022-11-09T00:00:00Z</start_at_dt>
@@ -506,13 +1008,14 @@
             <course_id>2833696</course_id>
             <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2833696</course_name>
             <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
-            <description_text></description_text>
+            <description_text>This three-day course provides the foundational training you'll need to succeed with Apache NiFi. Nifi supports the ability to manage ingest and data flow across complex ecosystems. In addition to learning NiFi's key features and concepts, participants will gain hands-on experience creating,...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>EMEA</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
             <start_at>Oct 11</start_at>
             <end_at>Oct 13</end_at>
             <start_at_dt>2022-10-11T07:00:00Z</start_at_dt>
@@ -531,13 +1034,14 @@
             <course_id>2837713</course_id>
             <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2837713</course_name>
             <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
-            <description_text></description_text>
+            <description_text>This three-day course provides the foundational training you'll need to succeed with Apache NiFi. Nifi supports the ability to manage ingest and data flow across complex ecosystems. In addition to learning NiFi's key features and concepts, participants will gain hands-on experience creating,...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>AMER</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
             <start_at>Dec 14</start_at>
             <end_at>Dec 17</end_at>
             <start_at_dt>2022-12-14T15:00:00Z</start_at_dt>
@@ -551,23 +1055,79 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2824851</loc>
+        <loc>https://www.softsource.com.sg/events/product_info.php?products_id=324</loc>
         <coveo:metadata>
-            <course_id>2824851</course_id>
-            <course_name>ILT - Cloudera Training for Apache Kafka - 2824851</course_name>
-            <reference_code>Cloudera Training for Apache Kafka</reference_code>
-            <description_text></description_text>
+            <course_id>2867543</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2867543</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text>This three-day course provides the foundational training you'll need to succeed with Apache NiFi. Nifi supports the ability to manage ingest and data flow across complex ecosystems. In addition to learning NiFi's key features and concepts, participants will gain hands-on experience creating,...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
-            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
-            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
-            <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Aug 16</start_at>
-            <end_at>Aug 19</end_at>
-            <start_at_dt>2022-08-16T07:00:00Z</start_at_dt>
-            <end_at_dt>2022-08-19T15:00:00Z</end_at_dt>
-            <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
+            <ilt_partner_storefront_url>https://www.softsource.com.sg/events/product_info.php?products_id=324</ilt_partner_storefront_url>
+            <start_at>Aug 31</start_at>
+            <end_at>Sep 02</end_at>
+            <start_at_dt>2022-08-31T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-02T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.agilitics.edu.sg/dataflow-flow-management-with-nifi/</loc>
+        <coveo:metadata>
+            <course_id>2867611</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2867611</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text>This three-day course provides the foundational training you'll need to succeed with Apache NiFi. Nifi supports the ability to manage ingest and data flow across complex ecosystems. In addition to learning NiFi's key features and concepts, participants will gain hands-on experience creating,...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Agilitics</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
+            <ilt_partner_storefront_url>https://www.agilitics.edu.sg/dataflow-flow-management-with-nifi/</ilt_partner_storefront_url>
+            <start_at>Sep 06</start_at>
+            <end_at>Sep 08</end_at>
+            <start_at_dt>2022-09-06T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-08T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>null</loc>
+        <coveo:metadata>
+            <course_id>2870117</course_id>
+            <course_name>ILT - Cloudera Flow Management with Apache NiFi - 2870117</course_name>
+            <reference_code>Cloudera Flow Management with Apache NiFi</reference_code>
+            <description_text>This three-day course provides the foundational training you'll need to succeed with Apache NiFi. Nifi supports the ability to manage ingest and data flow across complex ecosystems. In addition to learning NiFi's key features and concepts, participants will gain hands-on experience creating,...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Agilitics</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
+            <ilt_partner_storefront_url>null</ilt_partner_storefront_url>
+            <start_at>Dec 14</start_at>
+            <end_at>Dec 16</end_at>
+            <start_at_dt>2022-12-14T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-16T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
@@ -581,13 +1141,14 @@
             <course_id>2830533</course_id>
             <course_name>ILT - Cloudera Training for Apache Kafka - 2830533</course_name>
             <reference_code>Cloudera Training for Apache Kafka</reference_code>
-            <description_text></description_text>
+            <description_text>This four-day instructor-led course begins by introducing Apache Kafka, explaining its key concepts and architecture, and discussing several common use cases. Building on this foundation, you will learn how to plan a Kafka deployment, and then gain hands-on experience by installing and...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
             <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>AMER</ilt_delivery_geo>
             <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
             <start_at>Sep 13</start_at>
             <end_at>Sep 17</end_at>
             <start_at_dt>2022-09-13T14:00:00Z</start_at_dt>
@@ -601,22 +1162,51 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2832438</loc>
+        <loc>https://www.compendium.pl/registration/1/4403/35356</loc>
         <coveo:metadata>
-            <course_id>2832438</course_id>
-            <course_name>ILT - Cloudera Training for Apache Kafka - 2832438</course_name>
+            <course_id>2848348</course_id>
+            <course_name>ILT - Cloudera Training for Apache Kafka - 2848348</course_name>
             <reference_code>Cloudera Training for Apache Kafka</reference_code>
             <description_text></description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
-            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>EMEA</ilt_delivery_geo>
+            <ilt_provider>Compendium</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
+            <ilt_partner_storefront_url>https://www.compendium.pl/registration/1/4403/35356</ilt_partner_storefront_url>
+            <start_at>Sep 26</start_at>
+            <end_at>Sep 29</end_at>
+            <start_at_dt>2022-09-26T08:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-29T16:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, EMEA (UTC)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.softsource.com.sg/events/product_info.php?products_id=330&amp;osCsid=b19691j3dn1n5os6brf93u9hk2</loc>
+        <coveo:metadata>
+            <course_id>2867631</course_id>
+            <course_name>ILT - Designing Edge to AI Applications on Hybrid Data Cloud - 2867631</course_name>
+            <reference_code>Designing Edge to AI Applications on Hybrid Data Cloud</reference_code>
+            <description_text>This four-day learning event addresses advanced big data architecture topics for building edge to AI applications to cover streaming, operational data processing, analytics and machine learning. The workshop brings together technical contributors into a group setting to design and architect...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
             <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
-            <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Dec 06</start_at>
-            <end_at>Dec 09</end_at>
-            <start_at_dt>2022-12-06T01:00:00Z</start_at_dt>
-            <end_at_dt>2022-12-09T09:00:00Z</end_at_dt>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Administrator;Data Developer;Data Scientist</ilt_roles>
+            <ilt_partner_storefront_url>https://www.softsource.com.sg/events/product_info.php?products_id=330&amp;osCsid=b19691j3dn1n5os6brf93u9hk2</ilt_partner_storefront_url>
+            <start_at>Sep 13</start_at>
+            <end_at>Sep 16</end_at>
+            <start_at_dt>2022-09-13T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-09-16T09:00:00Z</end_at_dt>
             <course_location>Virtual Classroom, APAC (Singapore)</course_location>
             <address_1></address_1>
             <address_2></address_2>
@@ -626,23 +1216,52 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://education.cloudera.com/store/2835939</loc>
+        <loc>null</loc>
         <coveo:metadata>
-            <course_id>2835939</course_id>
-            <course_name>ILT - Using Apache Flink and SQL Stream Builder on CDP - 2835939</course_name>
-            <reference_code>Using Apache Flink and SQL Stream Builder on CDP</reference_code>
-            <description_text></description_text>
+            <course_id>2870053</course_id>
+            <course_name>ILT - Designing Edge to AI Applications on Hybrid Data Cloud - 2870053</course_name>
+            <reference_code>Designing Edge to AI Applications on Hybrid Data Cloud</reference_code>
+            <description_text>This four-day learning event addresses advanced big data architecture topics for building edge to AI applications to cover streaming, operational data processing, analytics and machine learning. The workshop brings together technical contributors into a group setting to design and architect...</description_text>
             <course_type>ILT</course_type>
             <ilt_delivery_method>Virtual</ilt_delivery_method>
-            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
-            <ilt_delivery_language>Chinese</ilt_delivery_language>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
             <ilt_delivery_geo>APAC</ilt_delivery_geo>
-            <ilt_provider>Cloudera</ilt_provider>
-            <start_at>Nov 10</start_at>
-            <end_at>Nov 11</end_at>
-            <start_at_dt>2022-11-10T01:00:00Z</start_at_dt>
-            <end_at_dt>2022-11-11T09:00:00Z</end_at_dt>
-            <course_location>Virtual Classroom, APAC (China)</course_location>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Administrator;Data Developer;Data Scientist</ilt_roles>
+            <ilt_partner_storefront_url>null</ilt_partner_storefront_url>
+            <start_at>Nov 15</start_at>
+            <end_at>Nov 18</end_at>
+            <start_at_dt>2022-11-15T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-11-18T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>null</loc>
+        <coveo:metadata>
+            <course_id>2870106</course_id>
+            <course_name>ILT - Designing Edge to AI Applications on Hybrid Data Cloud - 2870106</course_name>
+            <reference_code>Designing Edge to AI Applications on Hybrid Data Cloud</reference_code>
+            <description_text>This four-day learning event addresses advanced big data architecture topics for building edge to AI applications to cover streaming, operational data processing, analytics and machine learning. The workshop brings together technical contributors into a group setting to design and architect...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>Virtual</ilt_delivery_method>
+            <ilt_delivery_type>Partner Public</ilt_delivery_type>
+            <ilt_delivery_language>English</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>SoftSource</ilt_provider>
+            <ilt_roles>Administrator;Data Developer;Data Scientist</ilt_roles>
+            <ilt_partner_storefront_url>null</ilt_partner_storefront_url>
+            <start_at>Dec 13</start_at>
+            <end_at>Dec 16</end_at>
+            <start_at_dt>2022-12-13T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-16T09:00:00Z</end_at_dt>
+            <course_location>Virtual Classroom, APAC (Singapore)</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
