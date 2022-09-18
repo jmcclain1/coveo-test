@@ -321,7 +321,7 @@
         </coveo:metadata>
     </url>
     <url>
-        <loc>https://www.pue.es/cursos/curso-administrator-training-cdp-private-cloud-base</loc>
+        <loc></loc>
         <coveo:metadata>
             <course_id>2873738</course_id>
             <course_name>ILT - Administrator Training: CDP Private Cloud Base - 2873738</course_name>
@@ -334,7 +334,7 @@
             <ilt_delivery_geo>EMEA</ilt_delivery_geo>
             <ilt_provider>PUE</ilt_provider>
             <ilt_roles>Administrator</ilt_roles>
-            <ilt_partner_storefront_url>https://www.pue.es/cursos/curso-administrator-training-cdp-private-cloud-base</ilt_partner_storefront_url>
+            <ilt_partner_storefront_url></ilt_partner_storefront_url>
             <start_at>Oct 03</start_at>
             <end_at>Oct 06</end_at>
             <start_at_dt>2022-10-03T07:00:00Z</start_at_dt>
@@ -2421,6 +2421,32 @@
             <start_at_dt>2022-11-14T08:00:00Z</start_at_dt>
             <end_at_dt>2022-11-17T16:00:00Z</end_at_dt>
             <course_location>Virtual Classroom, EMEA (CET)</course_location>
+            <address_1></address_1>
+            <address_2></address_2>
+            <address_3></address_3>
+            <location_country_code>xx</location_country_code>
+            <location_state_code>xx</location_state_code>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://education.cloudera.com/store/2903470</loc>
+        <coveo:metadata>
+            <course_id>2903470</course_id>
+            <course_name>ILT - Cloudera Training for Apache Kafka - 2903470</course_name>
+            <reference_code>Cloudera Training for Apache Kafka</reference_code>
+            <description_text>This four-day instructor-led course begins by introducing Apache Kafka, explaining its key concepts and architecture, and discussing several common use cases. Building on this foundation, you will learn how to plan a Kafka deployment, and then gain hands-on experience by installing and...</description_text>
+            <course_type>ILT</course_type>
+            <ilt_delivery_method>In-Person</ilt_delivery_method>
+            <ilt_delivery_type>Cloudera Public</ilt_delivery_type>
+            <ilt_delivery_language>Chinese</ilt_delivery_language>
+            <ilt_delivery_geo>APAC</ilt_delivery_geo>
+            <ilt_provider>Cloudera</ilt_provider>
+            <ilt_roles>Administrator;Data Developer</ilt_roles>
+            <start_at>Nov 29</start_at>
+            <end_at>Dec 02</end_at>
+            <start_at_dt>2022-11-29T01:00:00Z</start_at_dt>
+            <end_at_dt>2022-12-02T09:00:00Z</end_at_dt>
+            <course_location>On Site Classroom, APAC (China) (GMT+08:00) Beijing</course_location>
             <address_1></address_1>
             <address_2></address_2>
             <address_3></address_3>
